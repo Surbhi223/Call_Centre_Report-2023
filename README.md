@@ -1,4 +1,5 @@
 # Call_Centre_Report-2023
+MY PROJECT LINK:https://1drv.ms/x/c/1c4b93970a435dd9/EbO1ZqpIku1FvaBwt_nXNLoBdpsQWThZYZXgoJz2OUhq2A?e=AVOUpr
 Call Centre data
 This dashboard combines many valuable and practical Excel concepts like Power pivot, slicers, interactive charts, and conditional formatting. This is a dynamic report that shows, what is happening across a call center
 All the graphs shown in the dashboard are interacting with the Representative Slicer (representatives are those who take customers’ calls)
